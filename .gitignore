@@ -1,3 +1,7 @@
 work2.txt
+<<<<<<< HEAD
 work3.txt
 work4.txt
+=======
+work3.txt
+>>>>>>> 7d8dea0207b5b98d9df10e80cbba5e247eed7bd9
