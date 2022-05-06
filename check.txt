@@ -1,7 +1,5 @@
 check1
 check12
-<<<<<<< HEAD
 dasd
-=======
 wopqk
->>>>>>> 6e1b12992c721a572f3c80983eb1d83a7ca80a82
+aaa
